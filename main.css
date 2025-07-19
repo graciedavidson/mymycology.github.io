@@ -1118,17 +1118,30 @@ b {
 
 @media screen and (max-width: 1280px) {
 
-	
+	#headerone #banner {
+		height: 280px;
+	}
 
 }
 
 @media screen and (max-width: 980px) {
-
 	
+	#headerone #banner {
+		height: 270px;
+	}
+
 
 }
 
 @media screen and (max-width: 736px) {
+
+	#headerone #banner {
+		height: 260px;
+	}
+
+}
+	
+@media screen and (max-width: 400px) {
 
 	
 
@@ -1279,16 +1292,30 @@ b {
 
 @media screen and (max-width: 1280px) {
 
-	
+	#headerone #banner {
+		height: 280px;
+	}
 
 }
 
 @media screen and (max-width: 980px) {
-
 	
+	#headerone #banner {
+		height: 270px;
+	}
+
+
 }
 
 @media screen and (max-width: 736px) {
+
+	#headerone #banner {
+		height: 260px;
+	}
+
+}
+	
+@media screen and (max-width: 400px) {
 
 	
 
@@ -1356,17 +1383,30 @@ b {
 
 @media screen and (max-width: 1280px) {
 
-	
+	#headerone #banner {
+		height: 280px;
+	}
 
 }
 
 @media screen and (max-width: 980px) {
-
 	
+	#headerone #banner {
+		height: 270px;
+	}
+
 
 }
 
 @media screen and (max-width: 736px) {
+
+	#headerone #banner {
+		height: 260px;
+	}
+
+}
+	
+@media screen and (max-width: 400px) {
 
 	
 
@@ -1439,16 +1479,30 @@ b {
 
 @media screen and (max-width: 1280px) {
 
-	
+	#headerone #banner {
+		height: 280px;
+	}
+
 }
 
 @media screen and (max-width: 980px) {
-
 	
+	#headerone #banner {
+		height: 270px;
+	}
+
 
 }
 
 @media screen and (max-width: 736px) {
+
+	#headerone #banner {
+		height: 260px;
+	}
+
+}
+	
+@media screen and (max-width: 400px) {
 
 	
 
