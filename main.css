@@ -544,6 +544,7 @@ b {
 
 	#footer #smallnav li a:hover {
 		width: 50px;
+		text-align: center;
 	}
 
 	#footer #contact {
@@ -552,6 +553,7 @@ b {
 
 	#footer #contact li a:hover {
 		width: 50px;
+		text-align: center;
 	}
 	
 	#footer img {
