@@ -539,12 +539,18 @@ b {
 	}
 	
 	#footer #smallnav {
-		margin-left: 7px;
+		margin-left: 10px;
+	}
+
+	#footer #smallnav li a:hover {
 		width: 50px;
 	}
 
 	#footer #contact {
-		margin-right: 7px;
+		margin-right: 10px;
+	}
+
+	#footer #contact li a:hover {
 		width: 50px;
 	}
 	
