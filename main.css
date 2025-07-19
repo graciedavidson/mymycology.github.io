@@ -540,10 +540,12 @@ b {
 	
 	#footer #smallnav {
 		margin-left: 7px;
+		width: 80px;
 	}
 
 	#footer #contact {
 		margin-right: 7px;
+		width: 80px;
 	}
 	
 	#footer img {
