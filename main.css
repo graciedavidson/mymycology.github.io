@@ -538,12 +538,12 @@ b {
   		width: 65%;
 	}
 	
-	#footer #smallnav {
+	#footer #smallnav ul {
 		margin-left: 10px;
 		width: 100px;
 	}
 
-	#footer #contact {
+	#footer #contact ul {
 		margin-right: 10px;
 		width: 100px;
 	}
