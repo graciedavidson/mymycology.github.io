@@ -22,6 +22,7 @@ body {
 	font-family: quicksand;
 	text-align: center;
 	color: #007A76;
+	position: relative;
 }
 
 h1, h2 {
@@ -300,10 +301,6 @@ b {
 	
 	h1 {
 		font-size: 2.2em;
-	}
-	
-	#headerone {
-		position: relative;
 	}
 	
 	nav {
@@ -1128,10 +1125,6 @@ b {
 	
 	#headerone #banner {
 		height: 270px;
-	}
-
-	nav {
-		top: 75px;
 	}
 
 }
