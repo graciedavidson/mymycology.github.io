@@ -764,8 +764,8 @@ b {
 	}
 
 	#missionsmall .goals {
-		width: 230px;
-		padding: 30px 0 40px;
+		width: 250px;
+		padding: 35px 0 45px;
 		margin-right: 3%;
 		margin-top: 15px;
 	}
@@ -787,7 +787,7 @@ b {
 	}
 
 	#missionsmall .goalstext {
-		font-size: .8em;
+		font-size: .85em;
 		padding: 10px 30px;
 	}
 
@@ -842,38 +842,14 @@ b {
 	
 @media screen and (max-width: 400px) {
 
-	#headerone #banner {
-		height: 260px;
-	}
-
-	#missionsmall .goals {
-		width: 230px;
-		padding: 30px 0 40px;
-		margin-right: 3%;
-		margin-top: 15px;
-	}
-	
 	#missionsmall .goals:nth-of-type(odd) {
-		float: left;
-		margin-left: 10%;
-		clear: right;
+		margin-left: 7%;
 	}
 	
 	#missionsmall .goals:nth-of-type(even) {
-		float: right;
-		margin-right: 10%;
-		clear: left;
+		margin-right: 7%;
 	}
 	
-	#missionsmall .goals:last-of-type {
-		margin-bottom: 50px;
-	}
-
-	#missionsmall .goalstext {
-		font-size: .8em;
-		padding: 10px 30px;
-	}
-
 	#pagessmall .box {
 		width: 36%;
 		height: 360px;
