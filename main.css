@@ -195,24 +195,24 @@ h2 {
 }
 
 #footer #smallnav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 150px;
-  background-color: white;
-  text-align: center;  
+  	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	width: 150px;
+  	background-color: white;
+  	text-align: center;  
 }
 
 #footer #smallnav li a {
-  display: block;
-  color: #FF8B49;
-  padding: 6px 12px;
-  text-decoration: none;
-  font-size: .8em;
+  	display: block;
+  	color: #FF8B49;
+  	padding: 6px 12px;
+  	text-decoration: none;
+  	font-size: .8em;
 }
 
 #footer #smallnav li a:hover {
-  background-color: #FAE8DD;
+  	background-color: #FAE8DD;
 }
 
 #footer #contact {
@@ -221,24 +221,24 @@ h2 {
 }
 
 #footer #contact ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 150px;
-  background-color: white;
-  text-align: center;
+  	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	width: 150px;
+  	background-color: white;
+  	text-align: center;
 }
 
 #footer #contact li a {
-  display: block;
-  color: #FF8B49;
-  padding: 6px 12px;
-  text-decoration: none;
-  font-size: .8em;
+  	display: block;
+  	color: #FF8B49;
+  	padding: 6px 12px;
+  	text-decoration: none;
+  	font-size: .8em;
 }
 
 #footer #contact li a:hover {
-  background-color: #FAE8DD;
+  	background-color: #FAE8DD;
 }
 
 #footer h2 {
@@ -519,11 +519,11 @@ b {
 	}
 	
 	#footer #smallnav ul {
-		width: 80px;
+		width: 100px;
 	}
 	
 	#footer #contact ul {
-		width: 80px;
+		width: 100px;
 	}
 	
 	#footer img {
