@@ -540,12 +540,12 @@ b {
 	
 	#footer #smallnav ul {
 		margin-left: 10px;
-		width: 100px;
+		width: 80px;
 	}
 
 	#footer #contact ul {
 		margin-right: 10px;
-		width: 100px;
+		width: 80px;
 	}
 	
 	#footer img {
@@ -830,14 +830,6 @@ b {
 		padding: 7px 17px;
 	}
 	
-	#footer #smallnav ul {
-		width: 80px;
-	}
-	
-	#footer #contact ul {
-		width: 80px;
-	}
-	
 }
 	
 @media screen and (max-width: 400px) {
@@ -851,7 +843,7 @@ b {
 	}
 	
 	#pagessmall .box {
-		width: 85%;
+		width: 80%;
 		height: 250px;
 	}
 
@@ -879,7 +871,7 @@ b {
 	
 	#pagessmall .box p {
 		padding: 5px 20px 10px;
-		height: 50px;
+		height: 35px;
 		font-size: .9em;
 	}
 
