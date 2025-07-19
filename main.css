@@ -484,6 +484,18 @@ b {
 		left: 5%;
 	}
 	
+	nav ul li a {
+		background-color: none;
+	}
+
+	nav ul li a:hover {
+  		background-color: none;
+	}
+	
+	nav ul li.current a {
+		background-color: none;
+	}
+	
 	h2 {
 		font-size: 1.4em;
 	}
@@ -536,6 +548,18 @@ b {
 	
 	body {
 		width: 100%;
+	}
+
+	nav ul li a {
+		background-color: none;
+	}
+
+	nav ul li a:hover {
+  		background-color: none;
+	}
+	
+	nav ul li.current a {
+		background-color: none;
 	}
 	
 	#banner h2 {
