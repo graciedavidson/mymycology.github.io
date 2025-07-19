@@ -871,7 +871,7 @@ b {
 	
 	#pagessmall .box {
 		width: 75%;
-		height: 250px;
+		height: 280px;
 	}
 
 	#pagessmall .box:nth-of-type(2n + 1) {
@@ -889,7 +889,7 @@ b {
 	}
 
 	#pagessmall .box header {
-		height: 125px;
+		height: 140px;
 	}
 
 	#pagessmall .box h3 {
