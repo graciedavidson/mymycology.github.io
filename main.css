@@ -18,22 +18,6 @@ body {
 	font-family: Monda;
 }
 
-@media screen and (max-width: 1280px) {
-
-}
-
-@media screen and (max-width: 980px) {
-	body {
-		background-color: blue;
-	}
-}
-
-@media screen and (max-width: 736px) {
-	body {
-		background-color: white;
-	}
-}
-
 #headerone, #headertwo, #headerthree, #headerfour, #headerfive {
 	font-family: quicksand;
 	text-align: center;
