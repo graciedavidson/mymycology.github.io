@@ -810,6 +810,63 @@ b {
 
 }
 
+@media screen and (max-width: 400px) {
+
+	#headerone #banner {
+		height: 260px;
+	}
+
+	#missionsmall .goals {
+		width: 180px;
+		padding: 17px 0 23px;
+		margin-right: 4%;
+	}
+
+	#missionsmall .goals:first-of-type {
+		margin-left: 4%;
+	}
+
+	#missionsmall .goalstext {
+		font-size: .85em;
+		padding: 17px 20px 19px;
+	}
+
+	#pagessmall .box {
+		width: 36%;
+		height: 360px;
+	}
+
+	#pagessmall .box:nth-of-type(2n + 1) {
+		margin-left: 9%;
+		margin-right: .5%;
+	}
+
+	#pagessmall .box:nth-of-type(2n + 2) {
+		margin-right: 9%;
+		margin-left: .5%;
+	}
+
+	#pagessmall .box header {
+		height: 180px;
+	}
+
+	#pagessmall .box h3 {
+		font-size: 1.1em;
+	}
+	
+	#pagessmall .box p {
+		padding: 5px 20px 10px;
+		height: 80px;
+		font-size: 1em;
+	}
+
+	#pagessmall .box footer a {
+		margin-left: 20px;
+		font-size: 1em;
+	}
+
+}
+
 /* 2. Basics */
 
 #headertwo #banner {
