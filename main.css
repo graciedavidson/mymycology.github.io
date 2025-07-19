@@ -518,7 +518,7 @@ b {
 		right: 1%;
 	}
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 440px) {
 	
 	html {
 		background: none;
@@ -810,7 +810,7 @@ b {
 
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 440px) {
 
 	#headerone #banner {
 		height: 260px;
@@ -857,7 +857,7 @@ b {
 	#pagessmall .box p {
 		padding: 5px 20px 10px;
 		height: 80px;
-		font-size: 1em;
+		font-size: .8em;
 	}
 
 	#pagessmall .box footer a {
