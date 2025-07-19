@@ -757,20 +757,42 @@ b {
 	#headerone #banner {
 		height: 260px;
 	}
-
-	#missionsmall .goals {
-		width: 160px;
-		padding: 1px 0;
-		margin-right: 3%;
+	
+	#missionsmall {
+		display: initial;
+		justify-content: initial;
 	}
 
-	#missionsmall .goals:first-of-type {
-		margin-left: 3%;
+	#missionsmall .goals {
+		width: 230px;
+		padding: 30px 0 40px;
+		margin-right: 3%;
+		margin-top: 15px;
+	}
+	
+	#missionsmall .goals:nth-of-type(odd) {
+		float: left;
+		margin-left: 10%;
+		clear: right;
+	}
+	
+	#missionsmall .goals:nth-of-type(even) {
+		float: right;
+		margin-right: 10%;
+		clear: left;
+	}
+	
+	#missionsmall .goals:last-of-type {
+		margin-bottom: 50px;
 	}
 
 	#missionsmall .goalstext {
-		font-size: .65em;
-		padding: 15px 23px;
+		font-size: .8em;
+		padding: 10px 30px;
+	}
+
+	#pages {
+		clear: both;
 	}
 
 	#pagessmall .box {
@@ -807,28 +829,49 @@ b {
 		font-size: .75em;
 		padding: 7px 17px;
 	}
-
+	
+	#footer #smallnav ul {
+		width: 80px;
+	}
+	
+	#footer #contact ul {
+		width: 80px;
+	}
+	
 }
-
-@media screen and (max-width: 440px) {
+	
+@media screen and (max-width: 400px) {
 
 	#headerone #banner {
 		height: 260px;
 	}
 
 	#missionsmall .goals {
-		width: 180px;
-		padding: 17px 0 23px;
-		margin-right: 4%;
+		width: 230px;
+		padding: 30px 0 40px;
+		margin-right: 3%;
+		margin-top: 15px;
 	}
-
-	#missionsmall .goals:first-of-type {
-		margin-left: 4%;
+	
+	#missionsmall .goals:nth-of-type(odd) {
+		float: left;
+		margin-left: 10%;
+		clear: right;
+	}
+	
+	#missionsmall .goals:nth-of-type(even) {
+		float: right;
+		margin-right: 10%;
+		clear: left;
+	}
+	
+	#missionsmall .goals:last-of-type {
+		margin-bottom: 50px;
 	}
 
 	#missionsmall .goalstext {
-		font-size: .85em;
-		padding: 17px 20px 19px;
+		font-size: .8em;
+		padding: 10px 30px;
 	}
 
 	#pagessmall .box {
